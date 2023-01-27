@@ -21,11 +21,11 @@ Image 4: Trips by Weekday per Hour
 Image 5: User Trips by Gender by Weekday
    ![Image 5](https://github.com/Sergg99/NYC-CitiBike/blob/34c5765e6455adbfc84c476960f87aeea819f84a/Challenge/Images/User%20Trips%20by%20Gender%20by%20Weekday.jpg)
 
-Image 6:
-   ![Image 6]()
+Image 6: 201908-citibike-tripdata DF
+   ![Image 6](https://github.com/Sergg99/NYC-CitiBike/blob/21c21d3a0e88341d0d6ce21c22075767631bc698/Images/201908-citibike-tripdata%20DF.jpg)
    
-Image 7:
-   ![Image 7]()
+Image 7: Tripduration Edited
+   ![Image 7](https://github.com/Sergg99/NYC-CitiBike/blob/21c21d3a0e88341d0d6ce21c22075767631bc698/Images/Tripduration%20edited.jpg)
 
 ## Summary:
 
