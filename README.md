@@ -4,6 +4,12 @@
 
 The purpose of the analysis revolves around generating a nice dashboard experience with data provided using Tableau. CitiBike from NYC is interested in geographical data as well as data disaggregated by users and genders to determine an investment opportunity. 
 
+1. Import data into Tableau.
+2. Create and style worksheet, dashboard, and stories in Tableau. 
+3. Use Tableau worksheets to display data in a professional way. 
+4. Portray data accurately using Tableau dashboards. 
+
+
 ## Results:
 
 Image 1: Checkout Times by Gender
