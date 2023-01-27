@@ -6,19 +6,26 @@ The purpose of the analysis revolves around generating a nice dashboard experien
 
 ## Results:
 
-Image 1: 
+Image 1: Checkout Times by Gender
+   ![Image 1](https://github.com/Sergg99/NYC-CitiBike/blob/34c5765e6455adbfc84c476960f87aeea819f84a/Challenge/Images/Checkout%20Times%20by%20Gender.jpg)
 
-Image 2:
-
-Image 3: 
-
-Image 4: 
-
-Image 5:
+Image 2: Checkout Times for Users
+   ![Image 2](https://github.com/Sergg99/NYC-CitiBike/blob/34c5765e6455adbfc84c476960f87aeea819f84a/Challenge/Images/Checkout%20Times%20for%20Users.jpg)
+   
+Image 3: Trips by Gender
+   ![Image 3](https://github.com/Sergg99/NYC-CitiBike/blob/34c5765e6455adbfc84c476960f87aeea819f84a/Challenge/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).jpg)
+   
+Image 4: Trips by Weekday per Hour
+   ![Image 4](https://github.com/Sergg99/NYC-CitiBike/blob/34c5765e6455adbfc84c476960f87aeea819f84a/Challenge/Images/Trips%20by%20Weekday%20per%20Hour.jpg)
+   
+Image 5: User Trips by Gender by Weekday
+   ![Image 5](https://github.com/Sergg99/NYC-CitiBike/blob/34c5765e6455adbfc84c476960f87aeea819f84a/Challenge/Images/User%20Trips%20by%20Gender%20by%20Weekday.jpg)
 
 Image 6:
-
+   ![Image 6]()
+   
 Image 7:
+   ![Image 7]()
 
 ## Summary:
 
